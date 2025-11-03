@@ -8,7 +8,14 @@ A multi-stage interactive web experience built with React, featuring bold Neo-Br
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-11.11-FF0055?style=for-the-badge)
 
 ## 🎮 Site Images
-D:\FDCoding\CodingProjects\React-143CArd\143CArd\src\assets\accesscode.png
+
+<img width="441" height="409" alt="Image" src="https://github.com/user-attachments/assets/b0ae684e-aad0-436d-94ee-6212ec957910" />
+
+<img width="367" height="395" alt="Image" src="https://github.com/user-attachments/assets/3ae78dc8-d690-4359-b0f4-722517ee219f" />
+
+<img width="338" height="347" alt="Image" src="https://github.com/user-attachments/assets/022f472a-e741-44e5-8473-8093a7c8e828" />
+
+<img width="367" height="383" alt="Image" src="https://github.com/user-attachments/assets/907ccd1e-aa0a-4397-9ec0-44125a614ac6" />
 
 ## ✨ Features
 
