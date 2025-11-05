@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import pic1 from "./assets/pic1.jpeg";
+import pic2 from "./assets/pic2.jpeg";
 
 // AccessCode Component
 const AccessCode = ({ onSuccess }) => {
@@ -349,7 +351,7 @@ const SpotDifference = () => {
             className="bg-white border-4 border-black shadow-[8px_8px_0_#000] p-4"
           >
             <img
-              src="/src/assets/pic1.jpeg"
+              src={pic1}
               alt="Spot difference 1"
               className="w-full border-4 border-black"
             />
@@ -363,7 +365,7 @@ const SpotDifference = () => {
             className="bg-white border-4 border-black shadow-[8px_8px_0_#000] p-4"
           >
             <img
-              src="/src/assets/pic2.jpeg"
+              src={pic2}
               alt="Spot difference 2"
               className="w-full border-4 border-black"
             />
